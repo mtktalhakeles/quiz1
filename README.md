@@ -1,6 +1,6 @@
 ## Backend Setup
-2. Run the Go server:
+1. Run the Go server:
 
     ```bash
-    go run .\main.go
+    go run .\q1.go
     ```
