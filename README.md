@@ -1,6 +1,7 @@
 ## Backend Setup
 
-    ```bash
-    go run .\q1.go
-    ```
+1. 
 
+    ```bash
+    go run .\main.go
+    ```
