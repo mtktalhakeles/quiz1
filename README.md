@@ -1,8 +1,6 @@
 ## Backend Setup
 
-1. Navigate to the `backend` folder:
-
     ```bash
-    cd backend
+    go run .\q1.go
     ```
 
